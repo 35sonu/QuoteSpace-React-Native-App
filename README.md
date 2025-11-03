@@ -28,10 +28,6 @@ QuoteSpace is a clean and elegant mobile application that delivers motivational 
 
 ---
 
-## 🎨 Screenshots
-
-> **Note**: Add screenshots of your app here after running it on a device/emulator
-
 ### Home Screen
 - Daily motivational quote with gradient background
 - New quote button for fresh inspiration
@@ -241,8 +237,8 @@ To use api-ninjas.com instead:
 ## 👨‍💻 Developer
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/35sonu)
+- Email: work.sonukumar03@gmail.com
 
 ---
 
