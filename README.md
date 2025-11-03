@@ -237,7 +237,7 @@ To use api-ninjas.com instead:
 ## 👨‍💻 Developer
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/35sonu)
+- GitHub: [SONUKUMAR](https://github.com/35sonu)
 - Email: work.sonukumar03@gmail.com
 
 ---
